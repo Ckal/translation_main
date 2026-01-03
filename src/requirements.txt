@@ -1,4 +1,4 @@
 git+https://github.com/huggingface/transformers>=4.35.0
-gradio>=4.0.0
+gradio>=4.44.0
 torch
-https://gradio>=4.0.0-main-build.s3.amazonaws.com/4a0e387e7bbd487de4c5e6e8aee4cf7da0f19dc5/gradio>=4.0.0-3.35.2-py3-none-any.whl
+https://gradio>=4.44.0-main-build.s3.amazonaws.com/4a0e387e7bbd487de4c5e6e8aee4cf7da0f19dc5/gradio>=4.44.0-3.35.2-py3-none-any.whl
